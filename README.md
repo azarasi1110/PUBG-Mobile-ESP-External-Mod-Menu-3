@@ -2,13 +2,13 @@
 PUBG Mobile ESP External Mod Menu project for PUBG Mobile 1.3.0. Support root and non-root (virtual), 32-bit injection only. Works on both Android Studio and AIDE. Project fixed for better compatibility
 
 # Screenshots
-![](https://i.imgur.com/FtfEsuv.png)
+![](https://i.imgur.com/T8bDDNI.png)
 
-![](https://i.imgur.com/KVRExRl.png)
+![](https://i.imgur.com/G16TWQy.png)
 
-![](https://i.imgur.com/9qLQRaX.jpg)
+![](https://i.imgur.com/8I7FgKx.jpg)
 
-![](https://i.imgur.com/o7D8ESh.jpg)
+![](https://i.imgur.com/UbijccX.jpg)
 
 # Credit
 DESI ESP
