@@ -13,7 +13,7 @@ PUBG Mobile ESP External Mod Menu project for PUBG Mobile 1.3.0. Support root an
 # Credit
 DESI ESP
 
-Putri
+Putri: https://t.me/espgrup
 
 # DISCLAIMER
 **WE SHARE THIS PROJECT FOR EDUCATIONAL PURPOSES ONLY, TO LEARN HOW THIS PROJECT WORKS. WE DO NOT ENCOURAGE YOU TO MOD PUBG OR ANY TENCENT GAMES. DOING SO MAY END YOU UP IN LEGAL TROUBLE. YOU ARE ONLY RESPONSABLE FOR YOUR ACTIONS. HAVE A LOOK AT THIS NEWS https://www.dailymail.co.uk/news/article-9423023/Worlds-biggest-video-game-cheating-operation-busted.html**
